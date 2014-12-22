@@ -1,3 +1,4 @@
-1,主城,,1,100,0,,10,,,1,zhuchengIcon.png,building_1
-2,兵房,,2,100,0,,10,,,1,zhuchengIcon.png,building_2
-3,敌人主城,,1,1,2,,10,,,1,zhuchengIcon.png,building_1
+1,主城,,1,100,0,,1,,,1,zhuchengIcon.png,building_1
+2,兵房,,2,100,0,,10,,,1,zhuchengIcon.png,building_3
+3,敌人主城,,1,10000,2,,10,,,1,zhuchengIcon.png,building_1
+4,箭塔,,3,0,100,,0,,,1,zhuchengIcon.png,building_2
